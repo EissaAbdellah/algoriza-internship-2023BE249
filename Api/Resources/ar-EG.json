@@ -1,0 +1,32 @@
+{
+  "Female": "أنثى",
+  "Male": "ذكر",
+
+  "Sunday": "الأحد",
+  "Monday": "الاثنين",
+  "Tuesday": "الثلاثاء",
+  "Wednesday": "الأربعاء",
+  "Thursday": "الخميس",
+  "Friday": "الجمعة",
+  "Saturday": "السبت",
+
+  "Cardiology": "طب القلب",
+  "Orthopedics": "طب العظام",
+  "Neurology": "طب الأعصاب",
+  "Dermatology": "طب الجلدية",
+  "ObstetricsAndGynecology": "طب النساء والتوليد",
+  "Pediatrics": "طب الأطفال",
+  "Ophthalmology": "طب العيون",
+  "Urology": "طب المسالك البولية",
+  "Gastroenterology": "طب الجهاز الهضمي",
+  "Oncology": "طب الأورام",
+  "Endocrinology": "طب الغدد",
+  "Rheumatology": "طب الروماتيزم",
+  "Pulmonology": "طب الرئة",
+  "Hematology": "طب الدم",
+  "Nephrology": "طب الكلى",
+  "InfectiousDisease": "أمراض معدية",
+  "AllergyAndImmunology": "الحساسية والمناعة",
+  "Psychiatry": "طب نفسي",
+  "Radiology": "التصوير الطبي"
+}

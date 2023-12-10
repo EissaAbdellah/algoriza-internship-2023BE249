@@ -1,0 +1,33 @@
+{
+  "Female": "Female",
+  "Male": "Male",
+
+  "Sunday": "Sunday",
+  "Monday": "Monday",
+  "Tuesday": "Tuesday",
+  "Wednesday": "Wednesday",
+  "Thursday": "Thursday",
+  "Friday": "Friday",
+
+  "Saturday": "Saturday",
+  "Cardiology": "Cardiology",
+  "Orthopedics": "Orthopedics",
+  "Neurology": "Neurology",
+  "Dermatology": "Dermatology",
+  "ObstetricsAndGynecology": "Obstetrics and Gynecology (OB/GYN)",
+  "Pediatrics": "Pediatrics",
+  "Ophthalmology": "Ophthalmology",
+  "Urology": "Urology",
+  "Gastroenterology": "Gastroenterology",
+  "Oncology": "Oncology",
+  "Endocrinology": "Endocrinology",
+  "Rheumatology": "Rheumatology",
+  "Pulmonology": "Pulmonology",
+  "Hematology": "Hematology",
+  "Nephrology": "Nephrology",
+  "InfectiousDisease": "Infectious Disease",
+  "AllergyAndImmunology": "Allergy and Immunology",
+  "Psychiatry": "Psychiatry",
+  "Radiology": "Radiology"
+
+}
